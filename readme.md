@@ -778,5 +778,5 @@ To run the tests, run
 dropdb livres_database
 createdb livres_database
 psql livres_database_test < livres_database.sql
-python test_flaskr.py
+python Nancy.py
 ```
